@@ -10,7 +10,6 @@ This web application detects plagiarism between two code snippets using various 
   - TF-IDF vectorization
   - Word2Vec embeddings
 - Provides a web interface for easy use
-- Stores plagiarism check results in a SQLite database
 
 ## Prerequisites
 
@@ -82,29 +81,8 @@ If you encounter any issues during setup or execution, try the following:
 
 5. If you're still experiencing issues, check the console output for specific error messages and refer to the Flask documentation or seek help in Python and Flask communities.
 
-## Project Structure
+## Test
+The plagiarize-detector algorithm is tested utilizing the data-set from https://github.com/oscarkarnalim/sourcecodeplagiarismdataset (see: References section). To replicate the test, it is just needed to move to `test` directory and then run the `test.py` program with python3 command after finishing the installation.
 
-```
-plagiarism_detector/
-├── app/
-│   ├── __init__.py
-│   ├── main.py
-│   ├── models.py
-│   ├── routes.py
-│   └── utils.py
-├── templates/
-│   ├── base.html
-│   └── index.html
-├── static/
-│   ├── css/
-│   │   └── style.css
-│   └── js/
-│       └── main.js
-├── tests/
-│   └── test_plagiarism_detector.py
-├── .gitignore
-├── README.md
-├── requirements.txt
-├── run.py
-└── init_db.py
-```
+## References
+The test-data-set is quoted from https://github.com/oscarkarnalim/sourcecodeplagiarismdataset, which means this repository includes the work that is distributed in the Apache License 2.0 (See: `TEST_DATA_SET_LISENCE`).

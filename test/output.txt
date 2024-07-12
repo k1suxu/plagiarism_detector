@@ -1,0 +1,566 @@
+Plagiarized Case 2: 84.02%
+Plagiarized Case 2: 92.4%
+Plagiarized Case 2: 81.86%
+Plagiarized Case 2: 89.43%
+Plagiarized Case 2: 95.32%
+Plagiarized Case 2: 82.06%
+Plagiarized Case 2: 79.71%
+Plagiarized Case 2: 98.98%
+Plagiarized Case 2: 95.89%
+Plagiarized Case 2: 74.98%
+Plagiarized Case 2: 79.95%
+Plagiarized Case 2: 72.37%
+Plagiarized Case 2: 71.56%
+Plagiarized Case 2: 90.6%
+Plagiarized Case 2: 59.96%
+Plagiarized Case 2: 70.58%
+Plagiarized Case 2: 88.63%
+Plagiarized Case 2: 70.21%
+Plagiarized Case 2: 83.7%
+Plagiarized Case 2: 74.34%
+Plagiarized Case 2: 70.92%
+Plagiarized Case 2: 65.42%
+Plagiarized Case 2: 81.38%
+Plagiarized Case 2: 67.21%
+Plagiarized Case 2: 66.16%
+Plagiarized Case 2: 80.46%
+Plagiarized Case 2: 61.53%
+Plagiarized Case 2: 68.0%
+Plagiarized Case 2: 63.07%
+Plagiarized Case 2: 56.73%
+Plagiarized Case 2: 60.98%
+Plagiarized Case 2: 78.16%
+Plagiarized Case 2: 71.97%
+Plagiarized Case 2: 63.68%
+Plagiarized Case 2: 66.98%
+Plagiarized Case 2: 54.7%
+Plagiarized Case 2: 65.48%
+Plagiarized Case 2: 63.07%
+Plagiarized Case 2: 58.5%
+Plagiarized Case 2: 61.59%
+Plagiarized Case 2: 78.16%
+Plagiarized Case 2: 61.07%
+Plagiarized Case 2: 61.72%
+Plagiarized Case 2: 65.88%
+Plagiarized Case 2: 56.81%
+Plagiarized Case 2: 68.51%
+Plagiarized Case 2: 66.82%
+Plagiarized Case 2: 57.38%
+Plagiarized Case 2: 59.21%
+Plagiarized Case 2: 78.16%
+Plagiarized Case 2: 56.38%
+Plagiarized Case 2: 63.27%
+Plagiarized Case 2: 66.98%
+Plagiarized Case 2: 53.3%
+Non-Plagiarized Case 2: 74.58%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 61.67%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 66.97%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 63.1%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 77.98%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 53.47%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 76.08%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 70.26%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 66.17%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 60.95%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 73.24%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 74.68%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 62.1%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 60.23%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 2: 70.96%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Plagiarized Case 1: 100.0%
+Plagiarized Case 1: 70.83%
+Plagiarized Case 1: 78.12%
+Plagiarized Case 1: 68.07%
+Plagiarized Case 1: 78.65%
+Plagiarized Case 1: 76.97%
+Plagiarized Case 1: 74.56%
+Plagiarized Case 1: 97.42%
+Plagiarized Case 1: 78.71%
+Plagiarized Case 1: 70.96%
+Plagiarized Case 1: 77.64%
+Plagiarized Case 1: 77.72%
+Plagiarized Case 1: 78.65%
+Plagiarized Case 1: 78.71%
+Plagiarized Case 1: 70.96%
+Plagiarized Case 1: 77.54%
+Plagiarized Case 1: 50.65%
+Plagiarized Case 1: 69.21%
+Plagiarized Case 1: 78.65%
+Plagiarized Case 1: 99.24%
+Plagiarized Case 1: 61.82%
+Plagiarized Case 1: 51.88%
+Plagiarized Case 1: 38.32%
+[ERROR]: Plagiaried score is less than 40%
+Plagiarized Case 1: 41.49%
+Plagiarized Case 1: 46.71%
+Plagiarized Case 1: 60.96%
+Plagiarized Case 1: 51.89%
+Plagiarized Case 1: 69.55%
+Plagiarized Case 1: 77.35%
+Plagiarized Case 1: 52.04%
+Plagiarized Case 1: 74.25%
+Plagiarized Case 1: 40.7%
+Plagiarized Case 1: 61.82%
+Plagiarized Case 1: 50.98%
+Plagiarized Case 1: 54.81%
+Plagiarized Case 1: 40.85%
+Plagiarized Case 1: 34.35%
+[ERROR]: Plagiaried score is less than 40%
+Plagiarized Case 1: 39.21%
+[ERROR]: Plagiaried score is less than 40%
+Plagiarized Case 1: 68.67%
+Plagiarized Case 1: 45.94%
+Non-Plagiarized Case 1: 84.44%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 37.97%
+Non-Plagiarized Case 1: 40.18%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 59.2%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 48.71%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 65.99%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 45.88%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 59.2%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 40.16%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 38.61%
+Non-Plagiarized Case 1: 65.5%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 47.09%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 57.39%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 56.61%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 1: 38.0%
+Plagiarized Case 4: 74.17%
+Plagiarized Case 4: 88.41%
+Plagiarized Case 4: 67.58%
+Plagiarized Case 4: 75.51%
+Plagiarized Case 4: 92.7%
+Plagiarized Case 4: 72.94%
+Plagiarized Case 4: 74.65%
+Plagiarized Case 4: 97.15%
+Plagiarized Case 4: 96.7%
+Plagiarized Case 4: 61.28%
+Plagiarized Case 4: 73.04%
+Plagiarized Case 4: 54.68%
+Plagiarized Case 4: 64.55%
+Plagiarized Case 4: 75.58%
+Plagiarized Case 4: 57.02%
+Plagiarized Case 4: 61.42%
+Plagiarized Case 4: 70.73%
+Plagiarized Case 4: 75.35%
+Plagiarized Case 4: 61.24%
+Plagiarized Case 4: 71.01%
+Plagiarized Case 4: 53.8%
+Plagiarized Case 4: 63.79%
+Plagiarized Case 4: 74.5%
+Plagiarized Case 4: 57.6%
+Plagiarized Case 4: 58.59%
+Plagiarized Case 4: 77.82%
+Plagiarized Case 4: 74.31%
+Plagiarized Case 4: 70.63%
+Plagiarized Case 4: 69.2%
+Plagiarized Case 4: 49.98%
+Plagiarized Case 4: 57.54%
+Plagiarized Case 4: 70.1%
+Plagiarized Case 4: 56.51%
+Plagiarized Case 4: 61.34%
+Plagiarized Case 4: 58.46%
+Plagiarized Case 4: 56.98%
+Plagiarized Case 4: 64.22%
+Plagiarized Case 4: 68.14%
+Plagiarized Case 4: 51.22%
+Plagiarized Case 4: 59.47%
+Plagiarized Case 4: 69.57%
+Plagiarized Case 4: 59.41%
+Plagiarized Case 4: 62.08%
+Plagiarized Case 4: 57.73%
+Plagiarized Case 4: 57.47%
+Plagiarized Case 4: 58.46%
+Plagiarized Case 4: 67.93%
+Plagiarized Case 4: 49.55%
+Plagiarized Case 4: 53.98%
+Plagiarized Case 4: 68.71%
+Plagiarized Case 4: 44.29%
+Plagiarized Case 4: 57.06%
+Plagiarized Case 4: 68.53%
+Plagiarized Case 4: 56.84%
+Non-Plagiarized Case 4: 44.87%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 50.13%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 43.62%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 41.67%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 54.56%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 56.02%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 49.44%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 47.01%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 43.79%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 37.2%
+Non-Plagiarized Case 4: 66.16%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 47.41%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 54.39%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 40.0%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 4: 41.31%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Plagiarized Case 6: 90.62%
+Plagiarized Case 6: 75.3%
+Plagiarized Case 6: 76.45%
+Plagiarized Case 6: 80.68%
+Plagiarized Case 6: 93.46%
+Plagiarized Case 6: 68.43%
+Plagiarized Case 6: 95.49%
+Plagiarized Case 6: 95.41%
+Plagiarized Case 6: 77.48%
+Plagiarized Case 6: 68.07%
+Plagiarized Case 6: 66.74%
+Plagiarized Case 6: 67.38%
+Plagiarized Case 6: 85.83%
+Plagiarized Case 6: 65.57%
+Plagiarized Case 6: 87.56%
+Plagiarized Case 6: 82.78%
+Plagiarized Case 6: 72.8%
+Plagiarized Case 6: 65.98%
+Plagiarized Case 6: 65.15%
+Plagiarized Case 6: 67.38%
+Plagiarized Case 6: 85.83%
+Plagiarized Case 6: 63.24%
+Plagiarized Case 6: 81.64%
+Plagiarized Case 6: 76.64%
+Plagiarized Case 6: 51.62%
+Plagiarized Case 6: 55.03%
+Plagiarized Case 6: 60.69%
+Plagiarized Case 6: 60.5%
+Plagiarized Case 6: 77.12%
+Plagiarized Case 6: 59.86%
+Plagiarized Case 6: 54.87%
+Plagiarized Case 6: 70.37%
+Plagiarized Case 6: 61.68%
+Plagiarized Case 6: 49.69%
+Plagiarized Case 6: 62.07%
+Plagiarized Case 6: 64.7%
+Plagiarized Case 6: 67.58%
+Plagiarized Case 6: 80.02%
+Plagiarized Case 6: 63.58%
+Plagiarized Case 6: 64.06%
+Plagiarized Case 6: 77.77%
+Plagiarized Case 6: 69.23%
+Plagiarized Case 6: 45.44%
+Plagiarized Case 6: 56.14%
+Plagiarized Case 6: 61.55%
+Plagiarized Case 6: 62.43%
+Plagiarized Case 6: 74.64%
+Plagiarized Case 6: 52.96%
+Plagiarized Case 6: 53.76%
+Plagiarized Case 6: 67.71%
+Plagiarized Case 6: 58.91%
+Non-Plagiarized Case 6: 67.5%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 52.34%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 65.06%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 76.53%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 72.77%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 77.58%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 74.11%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 77.34%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 63.48%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 58.93%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 77.46%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 67.22%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 76.71%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 65.98%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 6: 64.85%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Plagiarized Case 7: 92.73%
+Plagiarized Case 7: 79.41%
+Plagiarized Case 7: 83.53%
+Plagiarized Case 7: 88.12%
+Plagiarized Case 7: 96.43%
+Plagiarized Case 7: 83.01%
+Plagiarized Case 7: 97.14%
+Plagiarized Case 7: 96.02%
+Plagiarized Case 7: 65.0%
+Plagiarized Case 7: 77.84%
+Plagiarized Case 7: 77.04%
+Plagiarized Case 7: 73.99%
+Plagiarized Case 7: 92.3%
+Plagiarized Case 7: 70.32%
+Plagiarized Case 7: 69.52%
+Plagiarized Case 7: 72.38%
+Plagiarized Case 7: 64.68%
+Plagiarized Case 7: 76.74%
+Plagiarized Case 7: 75.45%
+Plagiarized Case 7: 71.36%
+Plagiarized Case 7: 85.63%
+Plagiarized Case 7: 66.72%
+Plagiarized Case 7: 71.06%
+Plagiarized Case 7: 73.93%
+Plagiarized Case 7: 65.37%
+Plagiarized Case 7: 69.22%
+Plagiarized Case 7: 68.64%
+Plagiarized Case 7: 75.56%
+Plagiarized Case 7: 86.42%
+Plagiarized Case 7: 64.32%
+Plagiarized Case 7: 63.96%
+Plagiarized Case 7: 68.48%
+Plagiarized Case 7: 68.3%
+Plagiarized Case 7: 66.26%
+Plagiarized Case 7: 69.68%
+Plagiarized Case 7: 68.43%
+Plagiarized Case 7: 75.74%
+Plagiarized Case 7: 86.85%
+Plagiarized Case 7: 66.84%
+Plagiarized Case 7: 69.62%
+Plagiarized Case 7: 67.84%
+Plagiarized Case 7: 72.96%
+Plagiarized Case 7: 62.27%
+Plagiarized Case 7: 63.27%
+Plagiarized Case 7: 68.67%
+Plagiarized Case 7: 71.93%
+Plagiarized Case 7: 86.26%
+Plagiarized Case 7: 60.67%
+Plagiarized Case 7: 63.45%
+Plagiarized Case 7: 66.94%
+Plagiarized Case 7: 69.54%
+Non-Plagiarized Case 7: 83.38%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 70.89%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 67.16%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 77.2%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 57.32%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 72.18%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 62.49%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 71.45%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 73.69%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 60.12%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 68.83%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 83.04%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 68.7%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 65.31%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 7: 76.8%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Plagiarized Case 3: 89.33%
+Plagiarized Case 3: 84.46%
+Plagiarized Case 3: 87.42%
+Plagiarized Case 3: 89.2%
+Plagiarized Case 3: 97.02%
+Plagiarized Case 3: 82.02%
+Plagiarized Case 3: 98.78%
+Plagiarized Case 3: 93.62%
+Plagiarized Case 3: 76.2%
+Plagiarized Case 3: 79.9%
+Plagiarized Case 3: 83.79%
+Plagiarized Case 3: 79.72%
+Plagiarized Case 3: 94.4%
+Plagiarized Case 3: 79.91%
+Plagiarized Case 3: 73.43%
+Plagiarized Case 3: 92.03%
+Plagiarized Case 3: 78.63%
+Plagiarized Case 3: 77.87%
+Plagiarized Case 3: 82.67%
+Plagiarized Case 3: 72.37%
+Plagiarized Case 3: 75.9%
+Plagiarized Case 3: 91.86%
+Plagiarized Case 3: 78.35%
+Plagiarized Case 3: 89.52%
+Plagiarized Case 3: 76.18%
+Plagiarized Case 3: 70.07%
+Plagiarized Case 3: 77.13%
+Plagiarized Case 3: 73.67%
+Plagiarized Case 3: 70.59%
+Plagiarized Case 3: 84.33%
+Plagiarized Case 3: 74.38%
+Plagiarized Case 3: 77.4%
+Plagiarized Case 3: 73.7%
+Plagiarized Case 3: 60.75%
+Plagiarized Case 3: 74.09%
+Plagiarized Case 3: 77.13%
+Plagiarized Case 3: 73.67%
+Plagiarized Case 3: 71.48%
+Plagiarized Case 3: 88.58%
+Plagiarized Case 3: 73.22%
+Plagiarized Case 3: 76.25%
+Plagiarized Case 3: 74.02%
+Plagiarized Case 3: 61.1%
+Plagiarized Case 3: 63.63%
+Plagiarized Case 3: 72.6%
+Plagiarized Case 3: 72.6%
+Plagiarized Case 3: 65.16%
+Plagiarized Case 3: 84.33%
+Plagiarized Case 3: 65.98%
+Plagiarized Case 3: 65.77%
+Plagiarized Case 3: 69.79%
+Plagiarized Case 3: 56.85%
+Non-Plagiarized Case 3: 84.03%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 77.31%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 83.56%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 85.65%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 83.84%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 66.41%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 78.76%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 81.65%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 82.5%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 75.88%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 80.13%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 86.59%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 63.65%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 85.26%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 3: 72.97%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Plagiarized Case 5: 64.78%
+Plagiarized Case 5: 87.63%
+Plagiarized Case 5: 76.93%
+Plagiarized Case 5: 92.59%
+Plagiarized Case 5: 94.49%
+Plagiarized Case 5: 79.58%
+Plagiarized Case 5: 75.69%
+Plagiarized Case 5: 96.81%
+Plagiarized Case 5: 99.25%
+Plagiarized Case 5: 66.12%
+Plagiarized Case 5: 53.56%
+Plagiarized Case 5: 41.82%
+Plagiarized Case 5: 55.32%
+Plagiarized Case 5: 91.38%
+Plagiarized Case 5: 49.08%
+Plagiarized Case 5: 74.09%
+Plagiarized Case 5: 66.74%
+Plagiarized Case 5: 69.28%
+Plagiarized Case 5: 54.58%
+Plagiarized Case 5: 52.0%
+Plagiarized Case 5: 58.75%
+Plagiarized Case 5: 85.0%
+Plagiarized Case 5: 62.73%
+Plagiarized Case 5: 41.8%
+Plagiarized Case 5: 65.98%
+Plagiarized Case 5: 61.59%
+Plagiarized Case 5: 66.46%
+Plagiarized Case 5: 52.49%
+Plagiarized Case 5: 45.61%
+Plagiarized Case 5: 61.0%
+Plagiarized Case 5: 72.54%
+Plagiarized Case 5: 41.13%
+Plagiarized Case 5: 39.61%
+[ERROR]: Plagiaried score is less than 40%
+Plagiarized Case 5: 57.6%
+Plagiarized Case 5: 64.3%
+Plagiarized Case 5: 66.76%
+Plagiarized Case 5: 57.64%
+Plagiarized Case 5: 53.93%
+Plagiarized Case 5: 60.75%
+Plagiarized Case 5: 83.73%
+Plagiarized Case 5: 57.86%
+Plagiarized Case 5: 40.5%
+Plagiarized Case 5: 63.3%
+Plagiarized Case 5: 64.16%
+Plagiarized Case 5: 66.9%
+Plagiarized Case 5: 50.46%
+Plagiarized Case 5: 46.18%
+Plagiarized Case 5: 54.73%
+Plagiarized Case 5: 72.05%
+Plagiarized Case 5: 49.07%
+Plagiarized Case 5: 45.19%
+Plagiarized Case 5: 56.53%
+Plagiarized Case 5: 62.3%
+Non-Plagiarized Case 5: 50.71%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 56.54%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 54.32%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 65.71%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 70.7%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 79.05%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 58.93%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 66.02%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 54.15%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 44.76%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 64.5%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 68.23%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 59.77%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 67.37%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+Non-Plagiarized Case 5: 59.64%
+[ERROR]: Non-Plagiarized score is greater than or equal to 40%
+105 460 77.17391304347827
