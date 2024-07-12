@@ -563,4 +563,6 @@ Non-Plagiarized Case 5: 67.37%
 [ERROR]: Non-Plagiarized score is greater than or equal to 40%
 Non-Plagiarized Case 5: 59.64%
 [ERROR]: Non-Plagiarized score is greater than or equal to 40%
-105 460 77.17391304347827
+Number of files tested: 460
+Number of wrong results: 105
+Accuracy: 77.17391304347827%

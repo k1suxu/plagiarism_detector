@@ -54,8 +54,9 @@ def do_test(java_files):
                 wrong_count += 1
             file_num += 1
     
-    print(wrong_count, file_num, (file_num-wrong_count) / file_num * 100)
-
+    print(f'Number of files tested: {file_num}')
+    print(f'Number of wrong results: {wrong_count}')
+    print(f'Accuracy: {(file_num - wrong_count) / file_num * 100}%')
 
 output_file = 'output.txt'
 

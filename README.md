@@ -26,7 +26,7 @@ This web application detects plagiarism between two code snippets using various 
 
 2. Create a virtual environment and activate it:
    ```
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
    ```
 
@@ -37,7 +37,7 @@ This web application detects plagiarism between two code snippets using various 
 
 4. Initialize the database:
    ```
-   python init_db.py
+   python3 init_db.py
    ```
 
 ## Running the Application
@@ -46,7 +46,7 @@ This web application detects plagiarism between two code snippets using various 
 
 2. Run the application:
    ```
-   python run.py
+   python3 run.py
    ```
 
 3. Open a web browser and navigate to `http://localhost:5000`
@@ -69,9 +69,9 @@ If you encounter any issues during setup or execution, try the following:
 2. If you get a "Template not found" error, check that your project structure is correct and that `templates/index.html` exists.
 
 3. If you encounter database-related errors:
-   - Ensure the database is initialized by running `python init_db.py`
+   - Ensure the database is initialized by running `python3 init_db.py`
    - Check that the `plagiarism_detector.db` file exists in the `app` directory
-   - If issues persist, delete the existing database file and re-run `python init_db.py`
+   - If issues persist, delete the existing database file and re-run `python3 init_db.py`
 
 4. Clear Python cache files:
    ```
