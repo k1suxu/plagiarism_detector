@@ -21,7 +21,7 @@ This web application detects plagiarism between two code snippets using various 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/plagiarism-detector.git
+   git clone https://github.com/k1suxu/plagiarism-detector.git
    cd plagiarism-detector
    ```
 
