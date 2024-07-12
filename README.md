@@ -22,7 +22,7 @@ This web application detects plagiarism between two code snippets using various 
 1. Clone the repository:
    ```
    git clone https://github.com/k1suxu/plagiarism_detector.git
-   cd plagiarism-detector
+   cd plagiarism_detector
    ```
 
 2. Create a virtual environment and activate it:
