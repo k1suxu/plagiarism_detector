@@ -1,70 +1,48 @@
-# Advanced Plagiarism Detection System
+# Plagiarism Detector
 
-This project implements an advanced plagiarism detection system using quantum computing, ethical AI, and blockchain technology.
+This web application detects plagiarism between two code snippets using various similarity detection techniques.
 
 ## Features
 
-- Quantum-enhanced similarity detection
-- Ethical AI validation to ensure fairness
-- Blockchain-based result verification
+- Compares two code snippets and calculates a similarity score
+- Uses multiple similarity detection methods:
+  - Sequence matching
+  - TF-IDF vectorization
+  - Word2Vec embeddings
+- Provides a web interface for easy use
+- Stores plagiarism check results in a database
 
 ## Installation
 
-### Python components
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/plagiarism-detector.git
+   cd plagiarism-detector
+   ```
 
-```bash
-pip install -e .
-```
+2. Create a virtual environment and activate it:
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+   ```
 
-### JavaScript components
+3. Install the required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
-```bash
-npm install
-```
+4. Run the application:
+   ```
+   python run.py
+   ```
+
+5. Open a web browser and navigate to `http://localhost:5000`
 
 ## Usage
 
-### Quantum Similarity Detector
-
-```python
-from plagiarism_detection_system.quantum_similarity import QuantumSimilarityDetector
-
-detector = QuantumSimilarityDetector()
-similarity = detector.calculate_similarity("code1", "code2")
-print(f"Quantum Similarity: {similarity}")
-```
-
-### Ethical AI Validator
-
-```python
-from plagiarism_detection_system.ethical_ai import EthicalAIValidator
-import numpy as np
-
-validator = EthicalAIValidator()
-X = np.random.rand(1000, 10)  # Features
-y = np.random.randint(2, size=1000)  # Labels
-sensitive_feature = np.random.randint(2, size=1000)  # Age as sensitive feature
-
-mitigated_dataset = validator.validate_and_mitigate(X, y, sensitive_feature)
-```
-
-### Blockchain Result Verifier
-
-```javascript
-const BlockchainResultVerifier = require('./src/blockchain/blockchain_result_verifier');
-const ethers = require('ethers');
-
-const contractABI = [
-    // ... (include your contract ABI here)
-];
-
-const verifier = new BlockchainResultVerifier('0x...', contractABI, 'https://mainnet.infura.io/v3/YOUR-PROJECT-ID');
-const resultHash = ethers.utils.id('Result data');
-
-verifier.recordResult(resultHash).then(() => {
-    verifier.verifyResult(resultHash, Math.floor(Date.now() / 1000)).then(console.log);
-});
-```
+1. Enter two code snippets in the provided text areas.
+2. Click the "Check Plagiarism" button.
+3. The similarity score will be displayed on the page.
 
 ## Contributing
 
@@ -72,4 +50,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.

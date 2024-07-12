@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Plagiarism Detector</h1>
+<form id="plagiarism-form">
+    <div class="code-input">
+        <textarea name="code1" placeholder="Enter the first code snippet here"></textarea>
+        <textarea name="code2" placeholder="Enter the second code snippet here"></textarea>
+    </div>
+    <button type="submit">Check Plagiarism</button>
+</form>
+<div id="result"></div>
+{% endblock %}
