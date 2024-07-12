@@ -36,12 +36,7 @@ This web application detects plagiarism between two code snippets using various 
    pip install -r requirements.txt
    ```
 
-4. Download NLTK data:
-   ```
-   python -c "import nltk; nltk.download('punkt')"
-   ```
-
-5. Initialize the database:
+4. Initialize the database:
    ```
    python init_db.py
    ```
